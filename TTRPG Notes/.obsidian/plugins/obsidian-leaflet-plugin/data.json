@@ -1,0 +1,254 @@
+{
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1689673189820,
+      "markers": [
+        {
+          "id": "ID_092bc97bc848",
+          "type": "default",
+          "loc": [
+            -1.04296875,
+            0.96875
+          ],
+          "link": "Lionshield Coster",
+          "layer": "%5B%5Bphandalin%20map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3456445993031359,
+            0.534
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_39c928cacb78",
+          "type": "default",
+          "loc": [
+            -0.52734375,
+            1.50390625
+          ],
+          "link": "Barthen's Provisions",
+          "layer": "%5B%5Bphandalin%20map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5365853658536586,
+            0.27
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0b591b7a389b",
+          "type": "default",
+          "loc": [
+            -1.00390625,
+            1.23046875
+          ],
+          "layer": "%5B%5Bphandalin%20map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.43902439024390244,
+            0.514
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7958bbda79f9",
+          "type": "default",
+          "loc": [
+            -0.78125,
+            1.296875
+          ],
+          "link": "Stonehill Inn",
+          "layer": "%5B%5Bphandalin%20map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4627177700348432,
+            0.4
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b89ac8c918bb",
+          "type": "default",
+          "loc": [
+            -0.60711669921875,
+            0.73828125
+          ],
+          "link": "Edermath Orchard",
+          "layer": "%5B%5Bphandalin%20map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d83909799928",
+          "type": "default",
+          "loc": [
+            -0.7908935546875,
+            1.10546875
+          ],
+          "link": "Shrine of Luck",
+          "layer": "%5B%5Bphandalin%20map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58a8a8a86a88",
+          "type": "default",
+          "loc": [
+            -1.3377685546875,
+            0.92578125
+          ],
+          "link": "Phandalin Miner's Exchange",
+          "layer": "%5B%5Bphandalin%20map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aaca8ada3b59",
+          "type": "default",
+          "loc": [
+            -0.8455810546875,
+            1.75
+          ],
+          "link": "The Sleeping Giant",
+          "layer": "%5B%5Bphandalin%20map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0b5b0b4a5acb",
+          "type": "default",
+          "loc": [
+            -1.3104248046875,
+            1.8359375
+          ],
+          "link": "Alderleaf Farm",
+          "layer": "%5B%5Bphandalin%20map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Locations/Phandalin.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#ff941a",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": 8,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[phandalin map.jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[phandalin map.jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "leaflet-map",
+    "width": "100%",
+    "lat": 100,
+    "long": 100,
+    "unit": "meters",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>.",
+  "defaultTileSubdomains": "a,b,c"
+}

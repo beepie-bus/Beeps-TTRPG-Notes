@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "4b356240003ac63b",
+    "type": "split",
+    "children": [
+      {
+        "id": "29b5b08bf1694cf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77d29b552dc2e5e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/Rene's Adventures/Who Steps Serenely.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1fa1c391f7f98d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Black Stream Solo Heroes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ded7cac87a7f1480",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/2Eto5E-conversion-summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a68b4a0c2af9b8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b51e9ba5562df6cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dea309891a8e6af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a190f74c7b12d9f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4a7fce649e9bb1fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.5
+  },
+  "right": {
+    "id": "eba4f3e41558350d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bcff6d2cd2bcac2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eac4eab8ea3964c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Resources/2Eto5E-conversion-summary.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d4f91cb3d8cde70",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Resources/2Eto5E-conversion-summary.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46ff080fd363e1f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Resources/2Eto5E-conversion-summary.md"
+              }
+            }
+          },
+          {
+            "id": "c37a5e39dc205052",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f1c2de67c24610c8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "a02ff57dee3514bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "ded7cac87a7f1480",
+  "lastOpenFiles": [
+    "Beeps-TTRPG-Notes",
+    "Beep-s-TTRPG-Notes",
+    "Resources/Black Stream Solo Heroes.md",
+    "Resources/2Eto5E-conversion-summary.md",
+    "Resources/DMing.md",
+    "Resources/Fantasy Ideas.md",
+    "Campaigns/Rene's Adventures/Sessions/240517.md",
+    "Art/Pasted image 20240517145505.png",
+    "Campaigns/Rene's Adventures/Who Steps Serenely.md",
+    "NPCs/Carmin le Blanc.md",
+    "NPCs/Carmin le.md",
+    "Art/Pasted image 20240517141934.png",
+    "Art/Pasted image 20240517141904.png",
+    "Templates/DnD 5e/templates/adventure/Vital Singularity.md",
+    "NPCs",
+    "Campaigns/Critical Minds/Critical Minds First Campaign.md",
+    "Campaigns/Critical Minds/Dark Souls.md",
+    "Dnd 5e Core/Conditions/disease.md",
+    "Dnd 5e Core/Conditions",
+    "Campaigns/Critical Minds/Critical Minds.md",
+    "Dnd 5e Core/Gamemastering/Conditions.md",
+    "Resources/For PCs.md",
+    "Campaigns/Rene's Adventures/Rene's Solo Play.md",
+    "Campaigns/Rene's Adventures/Locations/Cardew.md",
+    "Campaigns/Rene's Adventures/Locations",
+    "Templates/Info.md",
+    "Templates/Campaign.md",
+    "Templates/DnD 5e/templates/adventure/vix-adventure.md",
+    "Templates/DnD 5e/templates/session/vix-session.md",
+    "Campaigns/Campaigns.md",
+    "Map of Content.md",
+    "Templates/DnD 5e/templates/adventure/_attachments/vix-adventure.png",
+    "Templates/DnD 5e/templates/character/filbots-dnd-character-sheet.md",
+    "Templates/DnD 5e/templates/character/basic sheet.md",
+    "Art/Pasted image 20240517110424.png",
+    "Art/Pasted image 20240517110404.png",
+    "Art/Pasted image 20240517110318.png",
+    "Campaigns/Rene's Adventures/Sessions",
+    "Pf2e Core/Actions",
+    "Pf2e Core",
+    "Art/SumatraPDF_3oDI3qSRiA.jpg",
+    "Art/637411377154499865.png",
+    "Campaigns/Saga of Steel/Sessions",
+    "Campaigns/Rene's Adventures",
+    "Campaigns/Saga of Steel",
+    "PF2e/rules/assets/img/covers/SoM.webp"
+  ]
+}

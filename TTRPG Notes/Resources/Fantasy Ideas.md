@@ -1,0 +1,14 @@
+- Carnovirous barometz
+	- Ceres rat trap
+		- barometz that looks like a venus flytrap
+	- pitcher plants with potions?
+	- trapdoor pitcher plants
+	- corkscrew trap plant
+- proto carnivorous barometz
+	- vines or flowers that give food
+- trapdoor worm/spider
+- door mimic
+- giant jelly squeezed partway through door/corridor
+- door barricaded against monster
+- false door (plant)
+- 

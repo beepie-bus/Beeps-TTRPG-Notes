@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Campaign": "multitext",
+    "Player": "multitext",
+    "Level": "number",
+    "Type": "text",
+    "PC": "multitext",
+    "ruleset": "multitext"
+  }
+}

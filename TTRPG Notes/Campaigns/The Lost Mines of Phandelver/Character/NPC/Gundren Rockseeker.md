@@ -1,0 +1,3 @@
+- Dwarf
+- From Neverwinter
+- warrior escort: [[Sildar Hallwinter]]

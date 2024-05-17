@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "textFontFamily": "Times New Roman",
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "callout label",
+    "pf2-compendium",
+    "sidenote callout"
+  ],
+  "baseFontSize": 14
+}

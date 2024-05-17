@@ -1,0 +1,4 @@
+- fat, pompous old fool. Completely intimidated by the Redbrands, he claims that they're "just a mercenary guild, and not all that much trouble, really."
+- townmaster
+- human
+- [[Townmaster's Hall]]

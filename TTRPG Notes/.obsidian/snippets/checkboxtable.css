@@ -1,0 +1,88 @@
+.checkboxtable .internal-embed.is-loaded:not(.image-embed)
+{
+    --td: --background-primary;
+    background-color: --background-primary;
+    padding: 0px 0px !important;
+    margin:0px;
+    --dark-accent: var(--background-primary);
+    --lite-accent: var(--background-primary);
+}
+.checkboxtable .markdown-embed
+{
+  padding:0px;
+}
+
+.checkboxtable .markdown-embed li.task-list-item, .checkboxtable .markdown-embed ul.contains-task-list
+{
+    background-color: var(--background-primary);
+    
+}
+
+.checkboxtable td 
+{
+  padding: 0px !important;
+}
+
+.checkboxtable td + td
+{
+  padding: 4px 10px !important;
+}
+
+.checkboxtable td ul.contains-task-list
+{
+  margin:auto;
+  padding:0px;
+  text-align: center;
+}
+
+.checkboxtable td .markdown-preview-sizer.markdown-preview-section
+{
+    background-color: var(--td);
+}
+
+.checkboxtable
+{
+  --checkboxsize:calc(var(--font-text-size) * 2);
+}
+
+.checkboxtable td li.task-list-item
+{
+  border-left: 0px;
+  margin:0px;
+  padding:0px;
+}
+
+.checkboxtable td input[type="checkbox" i]
+{
+  padding:0px;
+}
+
+.checkboxtable .HyperMD-table-2.HyperMD-table-row div.internal-embed.is-loaded
+{
+    width:0px;
+    height:0px;
+    float:left;
+}
+
+.checkboxtable .markdown-source-view.mod-cm6 .task-list-item-checkbox, .checkboxtable .markdown-preview-view .task-list-item-checkbox
+{
+    --thisSize: 90%;
+    width: var(--checkboxsize);
+    height:var(--checkboxsize);
+    vertical-align: 50% - var(--checkboxsize);
+    margin:0px;
+}
+
+.checkboxtable td li.task-list-item::before
+{
+    content:none;
+}
+
+.checkboxtable td li.task-list-item::after
+{
+    content:none;
+}
+
+.checkboxtable .markdown-embed .markdown-preview-view{
+    padding: 0px 0px;
+}
